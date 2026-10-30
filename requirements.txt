@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+opencv-python
+numpy
+pandas
+matplotlib
+pillow
+sentence-transformers
+faiss-cpu
+jupyter
